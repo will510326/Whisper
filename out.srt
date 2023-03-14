@@ -1,0 +1,9 @@
+1
+Maximum content size limit (26214400 exceeded (153539792 bytes read {
+  "error": {
+    "message": "Maximum content size limit (26214400 exceeded (153539792 bytes read",
+    "type": "server_error",
+    "param": null,
+    "code": null
+  }
+} 413 {'error': {'message': 'Maximum content size limit (26214400 exceeded (153539792 bytes read', 'type': 'server_error', 'param': None, 'code': None}} {'Date': 'Mon, 13 Mar 2023 14:50:00 GMT', 'Content-Type': 'application/json', 'Content-Length': '172', 'Connection': 'keep-alive', 'Openai-Processing-Ms': '1608', 'Openai-Version': '2020-10-01', 'Strict-Transport-Security': 'max-age=15724800; includeSubDomains', 'X-Request-Id': '6adcd9d6a72942878b3c7c8020c992a0'}
